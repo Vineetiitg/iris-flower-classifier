@@ -3,3 +3,5 @@ __pycache__/
 outputs/
 models/
 *.pyc
+node_modules/
+.DS_Store
